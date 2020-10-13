@@ -1,7 +1,3 @@
-# Food Ordering App - Flutter UI
-
-## [Watch it on YouTube](https://youtu.be/F0ujC60wHwc)
-
 **Packages we are using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
